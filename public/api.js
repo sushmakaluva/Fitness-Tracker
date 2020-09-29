@@ -42,5 +42,3 @@ const API = {
     return json;
   },
 };
-
-module.exports = API;

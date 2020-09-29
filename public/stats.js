@@ -1,5 +1,3 @@
-const API = require('./api.js');
-
 // get all workout data from back-end
 
 fetch('/api/workouts/range')
