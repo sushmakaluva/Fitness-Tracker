@@ -1,6 +1,6 @@
 # Fitness-Tracker
 
-Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.
+Allows the user to add exercises to a previous workout plan, add new exercises to a new workout plan and view the combined weight of multiple exercises on the stats page.
 
 ## Description
 
